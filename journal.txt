@@ -1,0 +1,9 @@
+Today i will learn python and it's roadmap and learning time are below
+
+Syntax & Basics (30 min)
+Functions & OOP (45 min)
+File Handling & APIs (45 min)
+Async Programming (30 min)
+Libraries for AI Agents (1 hr)
+Mini-Projects (2-3 hrs)
+
